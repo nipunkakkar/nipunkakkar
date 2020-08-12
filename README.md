@@ -4,7 +4,7 @@ My name is Nipun Kakkar, I am a computer graduate from St. Xavier's College with
 I am skilled in Data Analytics, Data Science, Machine Learning and Deep Learning.
 This is my personal Github account where I upload intersting projects related to Data Science and Machine Learning.
 
-**Highlights :-
+**Highlights** :-
 
 * Skilled in the domain of Python, Data Analytics, Data Science, Machine Learning and Deep Learning.
 * Graduate in Bachelor of Computer Applications from St. Xavier's College.
@@ -12,7 +12,7 @@ This is my personal Github account where I upload intersting projects related to
 * Infosys Certified Python Programmer.
 * Certified in Tensorflow 2.0 : Deep Learning and Artificial Intelligence from Udemy.
 
-**Strength :
+**Strength** :
 
 * Highly experienced in Machine Learning and Deep Learning
 * Proficient in Supervised learning and Unsupervised learning.
@@ -25,7 +25,7 @@ This is my personal Github account where I upload intersting projects related to
 
 Currently, I am looknig for oppotunities in data science and machine learning or in related domains.
 
-**How to reach me 📱
+**How to reach me 📱**
     
 * LinkedIn - https://www.linkedin.com/in/nipunkakkarofficial/
 * Email    - mrnipunkakkar@gmail.com
