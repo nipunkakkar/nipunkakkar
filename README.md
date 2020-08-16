@@ -23,8 +23,6 @@ This is my personal Github account where I upload intersting projects related to
 * Good hands-on knowledge of neural networks design and implementation through tools like Tensorflow,
   Keras, OpenCV etc.
 
-Currently, I am looknig for oppotunities in data science and machine learning or in related domains.
-
 **How to reach me 📱**
     
 * LinkedIn - https://www.linkedin.com/in/nipunkakkarofficial/
