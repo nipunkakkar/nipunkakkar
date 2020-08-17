@@ -14,7 +14,7 @@ This is my personal Github account where I upload interesting projects related t
 **Strength** 
 
 * Highly experienced in Machine Learning and Deep Learning
-* Know various pipelines of a data science projects like Data Extraction, Exploratory Data Analysis, Data
+* Know various pipelines of a Data Science project like Data Extraction, Exploratory Data Analysis, Data
 Cleansing, Data Visualization and Model Deployment.
 * Good hands-on knowledge of neural networks design and implementation through tools like Tensorflow,
   Keras, OpenCV etc.
