@@ -6,7 +6,7 @@ This is my personal Github account where I upload interesting projects related t
 
 **Highlights** 
 
-* Skilled in the domain of Python, Data Analytics, Data Science, Machine Learning and Deep Learning.
+* Skilled in the domain of Python, Data Science, Machine Learning and Deep Learning.
 * Graduated in Bachelor of Computer Applications from St. Xavier's College.
 * IgnisWay Certified Web Developer.
 * Infosys Certified Python Programmer.
