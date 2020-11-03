@@ -13,7 +13,7 @@ This is my personal Github account where I upload interesting projects related t
 * Infosys Certified Machine Learning Professional.
 * Infosys Certified Python Programmer.
 
-**Strength** 
+**Strengths** 
 
 * Highly experienced in Python, Machine Learning and Deep Learning.
 * Know visualization techniques of data through tools like Excel and Power BI.
