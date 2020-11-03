@@ -20,7 +20,7 @@ This is my personal Github account where I upload interesting projects related t
 * Comfortable working with SQL databases like MySQL and Oracle as well as NoSQL databases like MongoDB.
 * Good hands-on knowledge of neural networks design and implementation through tools like Tensorflow and Keras.
 * Proficient in Web Development using PHP.
-* Logical and Creative thinking with sharp problem solving ability.
+* Logical and Creative thinking with sharp alogorithms and problem solving ability.
 
 **How to reach me 📱**
     
